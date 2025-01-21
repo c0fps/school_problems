@@ -1,0 +1,5 @@
+.vscode
+*.dSYM
+*.out
+*.cpp
+merge_sort
